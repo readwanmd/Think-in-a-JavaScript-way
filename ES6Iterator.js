@@ -80,4 +80,4 @@ function range(start, end, step) {
 	};
 }
 
-console.log([...range(1, 2000000, 2)][99]);
+console.log([...range(1, 2000000, 2)]);
